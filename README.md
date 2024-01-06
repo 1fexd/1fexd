@@ -44,7 +44,7 @@
 <ul>
   <li><h4>🔒 <a href="D1EC02C042E984468B653C2CB459DD424E49FAAD.asc" target="_blank">1fexd (PGFvy85nC@protonmail.com)</a></h4>Main Github signing key</li>
   <li><h4>🔒 <a href="F35B72EF75197523F1959C5F790CDD027D1DF8B0.asc" target="_blank">1fexd (1fexd@420blaze.it)</a></h4>Alternative key as Github blocks the "420blaze.it" domain</li>
-  <li><h4>🔒 <a href="B8D5BCE45D68C41DB7F3E134043A537557E046D0.asc" target="_blank">grrfe (grrfe@420blaze.it)</a></h4>Used on [Gitlab](https://gitlab.com/grrfe)</li>
+  <li><h4>🔒 <a href="B8D5BCE45D68C41DB7F3E134043A537557E046D0.asc" target="_blank">grrfe (grrfe@420blaze.it)</a></h4>Used on <a href="https://gitlab.com/grrfe">Gitlab</a></li>
 </ul>
 
 
