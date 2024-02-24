@@ -2,7 +2,7 @@
 
 <h3 align="left">Currently working on: </h3>
 <ul>
-  <li><h4>📱 <a href="https://github.com/1fexd/LinkSheet" target="_blank">LinkSheet</a></h4>An Android app restoring the app chooser that appeared when a link was clicked before Android 12.</li>
+  <li><h4>📱 <a href="https://github.com/1fexd/LinkSheet" target="_blank">LinkSheet</a></h4>An Android app that brings back the app chooser when tapping links which was removed in Android 12</li>
   <li>
     <h4>🔨 Various libraries used in LinkSheet</h4>
     <ul>
